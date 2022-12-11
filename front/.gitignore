@@ -1,0 +1,9 @@
+/src/Web3/typechain
+/node_modules/
+dist/
+/yarn-error.log
+/package-lock.json
+*.sh
+!templater.sh
+/public/iframe_api.js
+/public/es.js

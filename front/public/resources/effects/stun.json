@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "stun.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 122,
+				"h": 19
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stun01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 23,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 23,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 23,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 23,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 23,
+						"h": 17
+					},
+					"frame": {
+						"x": 26,
+						"y": 1,
+						"w": 23,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 23,
+						"h": 17
+					},
+					"frame": {
+						"x": 26,
+						"y": 1,
+						"w": 23,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 51,
+						"y": 1,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 51,
+						"y": 1,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 75,
+						"y": 1,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 22,
+						"h": 17
+					},
+					"frame": {
+						"x": 75,
+						"y": 1,
+						"w": 22,
+						"h": 17
+					}
+				},
+				{
+					"filename": "stun02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 22,
+						"h": 16
+					},
+					"frame": {
+						"x": 99,
+						"y": 1,
+						"w": 22,
+						"h": 16
+					}
+				},
+				{
+					"filename": "stun07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 22,
+						"h": 16
+					},
+					"frame": {
+						"x": 99,
+						"y": 1,
+						"w": 22,
+						"h": 16
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f0fb3eeed40582a6db44cb82a56fe25a:b185aa25aeccf3bf2d6be4ca095f570c:b839cd3d4b0c9f8b91b4a5c1ce798d1a$"
+	}
+}

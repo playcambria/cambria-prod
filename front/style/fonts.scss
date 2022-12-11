@@ -1,0 +1,43 @@
+@import "@fontsource/press-start-2p/index.css";
+@import "@16bits/nes.css/css/nes.min.css";
+
+@font-face {
+    font-family: 'MonteCarlo';
+    src: url('./fonts/MonteCarloFixed12-Bold.woff2') format('woff2'),
+        url('./fonts/MonteCarloFixed12-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MonteCarlo';
+    src: url('./fonts/MonteCarloFixed12.woff2') format('woff2'),
+        url('./fonts/MonteCarloFixed12.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+*{
+  font-family: "MonteCarlo";
+  letter-spacing: 0px;
+  word-spacing: -2px;
+//   text-shadow: 0 0 1px black, 0 0 1px black, 0 0 2px black, 0 0 2px black, 0 3px 3px black;
+}
+
+.nes-btn {
+  font-family: "MonteCarlo";
+  font-size: xx-large;
+  font-weight: bold;
+  line-height: 26px;
+}
+
+@font-face {
+    font-family: "RSChat";
+    src: url('./fonts/RuneScape-Chat-Bold.woff2') format('woff2'),
+        url('./fonts/RuneScape-Chat-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

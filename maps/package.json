@@ -1,0 +1,10 @@
+{
+  "name": "cambriamaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "devDependencies": {
+    "@workadventure/iframe-api-typings": "^1.4.15"
+  }
+}
