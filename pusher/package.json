@@ -25,7 +25,7 @@
     "google-protobuf": "^3.13.0",
     "grpc": "^1.24.4",
     "hyper-express": "^5.8.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "live-directory": "^2.3.2",
     "mkdirp": "^1.0.4",
     "openapi3-ts": "^2.0.2",
